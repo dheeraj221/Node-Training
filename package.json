@@ -1,0 +1,23 @@
+{
+  "name": "node-training",
+  "version": "1.0.0",
+  "description": "Node program implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test2" : "echo \"My name is Dheeraj\"" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dheeraj221/Node-Training.git"
+  },
+  "author": "Dheeraj Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dheeraj221/Node-Training/issues"
+  },
+  "homepage": "https://github.com/dheeraj221/Node-Training#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
